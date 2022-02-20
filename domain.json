@@ -1,0 +1,12 @@
+[{
+    "name": "",
+    "type": "A",
+    "ttl": 60,
+    "address": "44.235.163.135"
+}
+{
+    "name": "_redirect",
+    "type": "txt",
+    "ttl": 60,
+    "address": "v=txtv0;to=https://solo.to/cybrlabs;code=302"
+}]
